@@ -1,0 +1,42 @@
+{
+  "0": {
+    "Name": "Anna",
+    "SirName": "I",
+    "Sex": "female",
+    "Birth Day": "12/02/1988",
+    "Class": 12,
+    "Class-type": "A",
+    "Marcs Status": {},
+    "LCP": {}
+  },
+  "2": {
+    "Name": "Semen",
+    "SirName": "I",
+    "Sex": "female",
+    "Birth Day": "12/02/1988",
+    "Class": 12,
+    "Class-type": "A",
+    "Marcs Status": {},
+    "LCP": {}
+  },
+  "3": {
+    "Name": "Arkadii",
+    "SirName": "I",
+    "Sex": "female",
+    "Birth Day": "12/02/1988",
+    "Class": 12,
+    "Class-type": "A",
+    "Marcs Status": {},
+    "LCP": {}
+  },
+  "4": {
+    "Name": "Dunia",
+    "SirName": "I",
+    "Sex": "female",
+    "Birth Day": "12/02/1988",
+    "Class": 12,
+    "Class-type": "A",
+    "Marcs Status": {},
+    "LCP": {}
+  }
+}
